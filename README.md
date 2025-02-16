@@ -1,4 +1,4 @@
-# Python - yFinance---MWKT
+# Python - yFinance - MWKT
 📊 Python Scripts for retrieving financial data from Yahoo Finance.
 
 ## 🔥 Features
