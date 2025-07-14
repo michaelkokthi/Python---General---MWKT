@@ -24,3 +24,6 @@ retrieving financial data from Yahoo Finance.
 - Extracts from FRED
 - Extracts from World Bank API
 - Saves as PDF
+
+## Webscrape Morningstar Website for Funds data
+- Bypasses Defensive Webpage structure to scrape tables and automatically pulls subsequent pages of data
