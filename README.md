@@ -13,3 +13,8 @@
 - Retrieves **Income Statement, Balance Sheet, and Cash Flow Statements**.
 - **Automatically formats** and includes **Trailing Twelve Months (TTM) data**.
 - Saves the results to **Excel with separate sheets**.
+
+## Retrieve  Macroeconomic Data (US-Centric)
+- Extracts from FRED
+- Extracts from World Bank API
+- Saves as PDF
